@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>WebPonize</title>
+    <link>https://webponize.org/appcast.xml</link>
+    <description>WebPonize updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.3.0</title>
+      <description><![CDATA[
+        <ul>
+          <li>Performance improvement</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 3 Jan 2018 22:00:00 +0900</pubDate>
+      <enclosure
+        url="https://github.com/webponize/webponize/releases/download/v2.3.0/WebPonize.app.zip"
+        sparkle:version="2.3.0"
+        length="5377465"
+        type="application/zip"
+        sparkle:dsaSignature="MEQCIC503rvrtOwqGOlMOUi5vUytHolYQXs0QywU3OlqbjUwAiBO0uBMszs83N3u9OIdO0v7m0Fm+Xt7olSBg6xU5mlqtg==" />
+      <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
+</rss>
